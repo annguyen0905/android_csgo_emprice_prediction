@@ -1,4 +1,4 @@
-# android_csgo_emprice_prediction
+# CSGO EMPIRE PREDICTION FOR ANDROID APPLICATION
 
 This application is used for calculating the possibility of the next result based on latest history.
 
